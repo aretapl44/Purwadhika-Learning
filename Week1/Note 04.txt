@@ -1,0 +1,27 @@
+Array bersifat struktural, setiap data bisa diubah (mutable).
+Tidak bisa mendefinisikan ulang, tapi merubah bagian dari array.
+
+Base practice, paling benar dengan [ ], bukan dengan new array (). Ukurannya akan lebih besar dengan new Array () dari pada dengan []. Tidak perlu pakai sort juga karena akan boros dan tidak perlu.
+
+Cari cara kerja quick sort
+
+For of array
+for in object
+
+Function, ada block of berarti ada kurung kurawal buka dan tutup {}, reusable tapi bisa hasilin yang berbeda dari yang di input.
+
+Fuction declaration = dibuat definisi ( ada proses, param di definisi, proses di definisi) harus di sebut dulu function baru nama functionnya. memiliki nama tanpa harus diletakkan pada variabel.
+
+Fuction expression = sama harus di definisi, tapi tidak punya nama. namanya diambil dari nama variabel. fuction yang diletakkan pada variabel.
+
+Dia punya nilai karena ada return.
+
+Console.log pakai rest parameter.
+console.log("a", "b", "c") // ini rest parameter
+
+Nested function adalah function dalam function
+Closure adalah function dalam function, bisa mengakses anak function tanpa harus ke parent
+
+Rekursif = function yang memanggil dirinya sendiri
+
+Arrow function = langsung return. tidak punya this.
