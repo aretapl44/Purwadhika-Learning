@@ -1,0 +1,18 @@
+Algoritma terdiri dari input, ada riset, ada hasilnya.
+Pasti akan berhenti di suatu prosesnya. Jika tidak pernah berhenti, maka bukan algoritma.
+
+Asynchronus = sebelum data muncul, akan ada abu-abu atau komponen skeleton pada halaman web (
+
+Base practice agar tidak membuat kodingan error.
+
+Constant biasanya pakai huruf besar semua.
+
+Cobain string built in methods
+
+new untuk class javascript. Sebelah kiri dari new adalah object.
+
+Luas persegi panjang
+keliling persegi panjang
+diameter, keliling, luas lingkaran
+sudut segitiga
+masa depan ke masa lalu berapa hari jaraknya 

@@ -1,0 +1,37 @@
+Conditional Statement
+- If = hanya menerima kondisi di mana true atau false
+
+Ternary Operator
+if else yang hanya satu baris
+
+let welcome = "";
+let name = "dimas";
+
+welcome = name != "" ? "Welcome " + name : "please input your name";
+
+console.log(welcome);
+
+Perulangan ada 3 kondisi :
+1. Awalan (dieksekusi pertama)
+2. Akhiran (dieksekusi kedua)
+	(eksekusi di dalam kondisi loopingnya) == eksekusi ketiga
+3. Step / berapa langkah, naik atau turun (dieksekusi keempat)
+
+hitung angka 1 - 10, dengan hitungnya satu-satu
+
+for (let i = 1; i <= 10; i = i+1) {
+	console.log("angka => ", i);
+}
+
+While Loop
+Tidak mendefined awalan dan akhiran, tapi hanya akhiran saja
+
+let j =  1;
+while (j <= 10) {
+	console. log("j => ", j);
+	j = j + 1;
+
+}
+
+Break = berhenti
+Continue = untuk skip
