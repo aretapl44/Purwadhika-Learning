@@ -110,6 +110,6 @@ if (typeof data === 'number') {
 // Write a code to change every letter a into * from a string of input
 let words = "aku adalah Yin dan tidak akan pernah berubah apapun yang terjadi."
 
-let gantiA = words.replace(/a/g, "*");
+let gantiWords = words.replace(/a/g, "*");
 
-console.log (gantiA);
+console.log (gantiWords);
